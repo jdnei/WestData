@@ -1,5 +1,5 @@
 ## WestData XiBuShuJu 西部数据机场官方地址
-WestData西部数据官网地址</br>
+WestData西部数据机场官网地址</br>
 官方最新地址：[wd-gold.net](https://wd-gold.net/aff.php?aff=14941)  
 ### 简介
 WD-GOLD 西部数据机场是一家专注于提供高性价比网络中继服务的加速器平台。它主要通过加密隧道技术，帮助用户突破网络限制，实现全球互联网的极速访问。该平台以“稳定”和“金色品质”为卖点，界面简洁，支持多种主流协议（如 Shadowsocks / Trojan），兼容 Windows、macOS、iOS、Android 等全平台设备。
