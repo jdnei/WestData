@@ -15,12 +15,10 @@ WD-GOLD 西部数据机场是一家专注于提供高性价比网络中继服务
 | **Pass Platinum** | ￥40.00 | 400GiB | 500Mbps | 有限基础支持 | 流量翻倍，适合重度用户 |
 | **Pass Diamond** | ￥60.00 | 600GiB | 1000Mbps | **专属技术支持** | 千兆速率，服务更优 |
 | **Pass Ultimate** | ￥80.00 | 800GiB | **2000Mbps** | **专属技术支持** | 极致速率，大流量需求 |
-
----
-
-![image.png](https://pic.us.kg/file/1778467562581_image.png?raw=ture)
-### 📊 性能实测与分析
-#### 1.晚高峰测试表现
-![20260422_69e7d6118f7bd.jpg](https://pic.us.kg/file/1778468259120_20260422_69e7d6118f7bd.jpg?raw=ture)
-#### 2.落地入口分析
-![20260422_69e7d685716e7.png](https://pic.us.kg/file/1778468313641_20260422_69e7d685716e7.png?raw=ture)
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](https://github.com/jdnei/WestData/blob/main/WestData/20260711_6a512fb897ce4.jpg?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](https://github.com/jdnei/WestData/blob/main/WestData/20260711_6a512fb897ce4.jpg?raw=ture)    
+#### 3.落地入口分析  
+![image](https://github.com/jdnei/WestData/blob/main/WestData/20260711_6a5130289f372.png?raw=ture)
