@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-## آدرس رسمی WestData XiBuShuJu VPN
-
+## آدرس رسمی WestData XiBuShuJu VPN(به‌روزرسانی 4 نوامبر 2026)
 آدرس وب‌سایت رسمی WestData XiBuShuJu VPN</br>
 جدیدترین آدرس: [wd-gold.net](https://to.iix.im/xs01)</br>
 آدرس رسمی: [wd-gold.net](https://to.iix.im/xs01)</br>
