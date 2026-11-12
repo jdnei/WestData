@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# WestData XiBuShuJu 西部数据机场官方地址(2026年11月11日更新)
+# WestData XiBuShuJu 西部数据机场官方地址(2026年11月12日更新)
 WestData西部数据机场官网地址</br>
 最新地址：[wd-gold.net](https://to.iix.im/xs01)</br>
 官方地址：[wd-gold.net](https://to.iix.im/xs01)</br>
