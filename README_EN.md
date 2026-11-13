@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-## WestData XiBuShuJu VPN Official Address(Updated November 12, 2026)
+## WestData XiBuShuJu VPN Official Address(Updated November 13, 2026)
 
 WestData XiBuShuJu VPN Official Website Address</br>
 Latest Address: [wd-gold.net](https://to.iix.im/xs01)</br>
